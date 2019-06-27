@@ -1,2 +1,1 @@
-# GraficsUB
-Gràfics i Visualització de Dades 2019
+Grafics i visualitzacio de dades

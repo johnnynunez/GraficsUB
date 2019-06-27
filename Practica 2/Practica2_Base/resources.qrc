@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/fshader1.glsl</file>
+        <file>resources/vshader1.glsl</file>
+        <file>resources/textures/earth1.png</file>
+        <file>resources/models/sphere0.obj</file>
+        <file>resources/models/sphere1.obj</file>
+        <file>resources/data/colorMap3.gpl</file>
+        <file>resources/data/data0.txt</file>
+        <file>resources/data/dataBCN.txt</file>
+        <file>resources/data/dataBCNZoom.txt</file>
+        <file>resources/data/map.png</file>
+        <file>resources/data/mapZoom.png</file>
+        <file>resources/fgouraudshader.glsl</file>
+        <file>resources/fphongshader.glsl</file>
+        <file>resources/vgouraudshader.glsl</file>
+        <file>resources/ftoonshader.glsl</file>
+        <file>resources/vtoonshader.glsl</file>
+        <file>resources/fphongshaderTex.glsl</file>
+        <file>resources/vphongshader.glsl</file>
+        <file>resources/vphongshaderTex.glsl</file>
+        <file>resources/vEnvironmentalshader.glsl</file>
+        <file>resources/fEnvironmentalshader.glsl</file>
+        <file>resources/fBumpshader.glsl</file>
+        <file>resources/vBumpshader.glsl</file>
+        <file>resources/fTransparencyshader.glsl</file>
+        <file>resources/vTransparencyshader.glsl</file>
+        <file>resources/fphongshaderTexIndirecte.glsl</file>
+        <file>resources/vphongshaderTexIndirecte.glsl</file>
+        <file>resources/textures/europa.png</file>
+    </qresource>
+</RCC>
